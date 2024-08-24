@@ -1,0 +1,78 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>icons/2-step.svg</file>
+        <file>icons/1970-е.svg</file>
+        <file>icons/1980-е.svg</file>
+        <file>icons/Bass House.svg</file>
+        <file>icons/Big Hits.svg</file>
+        <file>icons/Black.svg</file>
+        <file>icons/Breaks.svg</file>
+        <file>icons/Cadillac.svg</file>
+        <file>icons/Chill House.svg</file>
+        <file>icons/Chill-Out.svg</file>
+        <file>icons/Complextro.svg</file>
+        <file>icons/Dancecore.svg</file>
+        <file>icons/Darkside.svg</file>
+        <file>icons/Deep.svg</file>
+        <file>icons/Disco Func.svg</file>
+        <file>icons/Dream Dance.svg</file>
+        <file>icons/Drum'n'Bass Hits.svg</file>
+        <file>icons/Dubstep.svg</file>
+        <file>icons/EDM Hits.svg</file>
+        <file>icons/EDM.svg</file>
+        <file>icons/Electro.svg</file>
+        <file>icons/Eurodance.svg</file>
+        <file>icons/Future Bass.svg</file>
+        <file>icons/Future House.svg</file>
+        <file>icons/GOA PSY.svg</file>
+        <file>icons/Gold.svg</file>
+        <file>icons/Groove Tribal.svg</file>
+        <file>icons/Hard Bass.svg</file>
+        <file>icons/Hardstyle.svg</file>
+        <file>icons/House Classics.svg</file>
+        <file>icons/House Hits.svg</file>
+        <file>icons/Hypnotic.svg</file>
+        <file>icons/Innocence.svg</file>
+        <file>icons/Jungle.svg</file>
+        <file>icons/Liquid Funk.svg</file>
+        <file>icons/Midtempo.svg</file>
+        <file>icons/Minimal Tech.svg</file>
+        <file>icons/Moombahton.svg</file>
+        <file>icons/Neurofunk.svg</file>
+        <file>icons/Old School.svg</file>
+        <file>icons/Pirate Station.svg</file>
+        <file>icons/Progressive.svg</file>
+        <file>icons/Radio Record.svg</file>
+        <file>icons/Rap Classics.svg</file>
+        <file>icons/Rap Hits.svg</file>
+        <file>icons/Rave FM.svg</file>
+        <file>icons/Remix.svg</file>
+        <file>icons/Rock.svg</file>
+        <file>icons/Russian Gold.svg</file>
+        <file>icons/Russian Hits.svg</file>
+        <file>icons/Russian Mix.svg</file>
+        <file>icons/Synthwave.svg</file>
+        <file>icons/Techno.svg</file>
+        <file>icons/Technopop.svg</file>
+        <file>icons/Tecktonik.svg</file>
+        <file>icons/Trance Hits.svg</file>
+        <file>icons/Trancehouse.svg</file>
+        <file>icons/Trancemission.svg</file>
+        <file>icons/Trap.svg</file>
+        <file>icons/Tropical.svg</file>
+        <file>icons/Uplifting.svg</file>
+        <file>icons/Vip House.svg</file>
+        <file>icons/Аншлаг FM.svg</file>
+        <file>icons/Веснушка FM.svg</file>
+        <file>icons/Гастарбайтер FM.svg</file>
+        <file>icons/Гоп FM.svg</file>
+        <file>icons/Дискотека 90.svg</file>
+        <file>icons/Маятник Фуко.svg</file>
+        <file>icons/Медляк FM.svg</file>
+        <file>icons/Нафталин FM.svg</file>
+        <file>icons/Mars Radio.svg</file>
+        <file>icons/Симфония FM.svg</file>
+        <file>icons/Megamix.svg</file>
+    </qresource>
+</RCC>
